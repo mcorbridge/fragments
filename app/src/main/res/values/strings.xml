@@ -9,5 +9,6 @@
     </string>
     <string name="portrait_message">This is Portrait mode fragment
     </string>
-
+    <string name="app_foo">Foo</string>
+    <string name="app_bar">Bar</string>
 </resources>
